@@ -1,0 +1,19 @@
+.about-container {
+  position: relative;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2rem;
+  text-align: left;
+  height: calc(100vh - 60px);
+  overflow-y: auto;
+}
+
+.about-container h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
