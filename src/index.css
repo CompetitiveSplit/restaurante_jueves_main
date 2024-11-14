@@ -17,3 +17,26 @@
   font-size: 1.2rem;
   line-height: 1.6;
 }
+
+.rojito {
+  color: #a94747;
+}
+
+.verde {
+  color: #1b8c19;
+}
+
+.imagenListado {
+  width: 60px;
+  height: auto;
+}
+
+.maximoTamanoCreacion {
+  width: 350px;
+  height: auto;
+}
+
+.maximoTamanoGrande {
+  width: 450px;
+  height: auto;
+}
